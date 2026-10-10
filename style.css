@@ -6,7 +6,7 @@
 }
 
 .background {
-  background-color: #7e8ae6;
+  background-color: #fdfdfe;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,7 +20,7 @@
   width: 390px;
   height: 844px;
   border-radius: 40px;
-  background: url('Gemini_Generated_Image_bme3a6bme3a6bme3.jpg') center/cover no-repeat;
+  background: #488ce5;
   position: relative;
   overflow: hidden;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
