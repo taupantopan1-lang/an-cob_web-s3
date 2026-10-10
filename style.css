@@ -20,7 +20,7 @@ body {
 
 .phone-frame {
   width: 390px;
-  height: 700px;
+  height: 650px;
   border-radius: 40px;
   background:#658be1 !important;
   position: relative;
@@ -52,7 +52,7 @@ body {
   height: 110px;
   border-radius: 50%;
   object-fit: cover;
-  border: 4px solid #658be1;
+  border: 4px solid #859dd5;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
   margin-bottom: 12px;
 }
