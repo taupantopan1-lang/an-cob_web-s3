@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #6c7ae1;
+  background-color: #7e8ae6;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -81,7 +81,7 @@ body {
 .btn-link {
   width: 100%;
   padding: 14px 20px;
-  background: rgba(255, 255, 255, 0.564);
+  background: rgba(239, 231, 231, 0.564);
   backdrop-filter: blur(10px);
   border-radius: 25px;
   text-decoration: none;
