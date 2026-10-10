@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #7474e3;
+  background-color: #6060d8;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,7 +22,7 @@ body {
   width: 390px;
   height: 844px;
   border-radius: 40px;
-  background:#60bbf7;
+  background:#127fc9;
   position: relative;
   overflow: hidden;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
